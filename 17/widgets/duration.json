@@ -1,0 +1,1 @@
+[{"uid":"eace7e65f5353046","name":"test with lambda steps","time":{"start":1730913596763,"stop":1730913596768,"duration":5},"status":"passed","severity":"normal"},{"uid":"4b7fbc655791c5b9","name":"test with annotation steps","time":{"start":1730913596598,"stop":1730913596631,"duration":33},"status":"passed","severity":"normal"}]
